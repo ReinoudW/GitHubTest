@@ -1,1 +1,16 @@
-Test van een Salesprompt
+## Introductie van een Salesprompt
+
+Deze prompt is voor sales. Het onderzoekt de klant voordat een verkoper contact opneemt
+Het onderzoekt de klant, zowel intern als extern. 
+Intern: Is er al eerder contact geweest en zo ja met wie?
+Extern: Als dit ons product is <product omschrijving> met wie binnen <klant> kan ik dan het beste contact opnemen?
+Wat zijn de voordelen van ons product voor deze specifieke klant?
+Wat vindt deze klant van ons product? Wat zien zij als voor- en nadelen van ons product?
+
+## Clone or Fork this Repo
+
+To begin, please clone or fork the GitHub Repository. This will make your own version of the course material so that you can run, test, and tweak the code!
+
+This can be done by clicking the link to <a href="https://github.com/microsoft/ai-agents-for-beginners/fork" target="_blank">fork the repo</a>
+
+You should now have your own forked version of this course in the following link:Test van een Salesprompt
