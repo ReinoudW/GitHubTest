@@ -1,11 +1,20 @@
 ## Introductie van een Salesprompt
-
-Deze prompt is voor sales. Het onderzoekt de klant voordat een verkoper contact opneemt
-Het onderzoekt de klant, zowel intern als extern. 
-Intern: Is er al eerder contact geweest en zo ja met wie?
-Extern: Als dit ons product is <product omschrijving> met wie binnen <klant> kan ik dan het beste contact opnemen?
-Wat zijn de voordelen van ons product voor deze specifieke klant?
-Hier voeg ik nu een extra zin tussen. Valt dat op?
-Wat vindt deze klant van ons product? Wat zien zij als voor- en nadelen van ons product?
-
 ## Deze file is gemaakt voor Copilot en geched met de Prompt coach van Microsoft.
+
+Prompt (copy/paste deze in Copilot Prompt window)
+
+Je staat op het punt om een klant te benaderen. Voer een analyse uit van deze klant om te bepalen of er mogelijkheden zijn om de HelpSoq On te verkopen of te verhuren.
+
+1. Vraag eerst: Wie is de klant? Gebruik deze naam in je analyse.
+2. Zoek intern in onze mails en documenten:
+   - Is er eerder contact geweest met deze klant? Zo ja, met wie en wat was de inhoud?
+3. Zoek extern op het internet:
+   - Wat is de achtergrond van deze klant (zorginstelling, locatie, omvang)?
+   - Wie zijn de relevante contactpersonen (bijvoorbeeld hoofd zorg, facilitair manager)?
+4. Analyseer:
+   - Wat zijn de voordelen van HelpSoq On voor deze specifieke klant?
+   - Wat is bekend over hun mening over ons product? Welke voor- en nadelen zien zij?
+5. Geef een gestructureerd overzicht met:
+   - Interne bevindingen
+   - Externe bevindingen
+   - Potentiële verkoop- of verhuurmogelijkheden
