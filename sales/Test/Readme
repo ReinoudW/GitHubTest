@@ -1,0 +1,3 @@
+Wanneer je een agent gebouwd hebt, is het goed om deze steeds tegen dezelde prompt te testen.
+Deze test moet je wel naar voortschrijdend inzicht aanpassen. 
+Voorbeelden zijn te vinden in https://huggingface.co/datasets/openai/gdpval/viewer/default/train
