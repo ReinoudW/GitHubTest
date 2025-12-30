@@ -16,6 +16,7 @@ Geef aan: Create a file
 Als je al in een folder staat zal de file in de folder gezet worden
 Als je een nieuwe folder wil dan type je die mee in de file naam: \Sales\Prompts\buiteland\readme (er wordt nu een nieuwe folder en een nieuwe file aangemaakt. Je kan geen 'lege' folder aanmaken)
 Wanneer je klaar bent moet je de wijziging "committen" - vastleggen. Doe je dat niet dan verlies je je tekst. 
+
 TIP Copieer even met 'copy' je tekst voordat je commit - als het fout gaat in het begin dan heb je iig je tekst nog
 
 
