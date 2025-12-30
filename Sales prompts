@@ -1,18 +1,20 @@
-# Sales
+## Introductie van een Salesprompt
+## Deze file is gemaakt voor Copilot en geched met de Prompt coach van Microsoft.
 
-## Introductie
+Prompt (copy/paste deze in Copilot Prompt window)
 
-Deze prompt is voor sales. Het onderzoekt de klant voordat een verkoper contact opneemt
-Het onderzoekt de klant, zowel intern als extern. 
-Intern: Is er al eerder contact geweest en zo ja met wie?
-Extern: Als dit ons product is <product omschrijving> met wie binnen <klant> kan ik dan het beste contact opnemen?
-Wat zijn de voordelen van ons product voor deze specifieke klant?
-Wat vindt deze klant van ons product? Wat zien zij als voor- en nadelen van ons product?
+Je staat op het punt om een klant te benaderen. Voer een analyse uit van deze klant om te bepalen of er mogelijkheden zijn om de HelpSoq On te verkopen of te verhuren.
 
-## Clone or Fork this Repo
-
-To begin, please clone or fork the GitHub Repository. This will make your own version of the course material so that you can run, test, and tweak the code!
-
-This can be done by clicking the link to <a href="https://github.com/microsoft/ai-agents-for-beginners/fork" target="_blank">fork the repo</a>
-
-You should now have your own forked version of this course in the following link:
+1. Vraag eerst: Wie is de klant? Gebruik deze naam in je analyse. Neen niets aan. Ga niet verder voordat je de naam hebt. 
+2. Zoek intern in onze mails en documenten:
+   - Is er eerder contact geweest met deze klant? Zo ja, met wie en wat was de inhoud?
+3. Zoek extern op het internet:
+   - Wat is de achtergrond van deze klant (zorginstelling, locatie, omvang)?
+   - Wie zijn de relevante contactpersonen (bijvoorbeeld hoofd zorg, facilitair manager)?
+4. Analyseer:
+   - Wat zijn de voordelen van HelpSoq On voor deze specifieke klant?
+   - Wat is bekend over hun mening over ons product? Welke voor- en nadelen zien zij?
+5. Geef een gestructureerd overzicht met:
+   - Interne bevindingen
+   - Externe bevindingen
+   - Potentiële verkoop- of verhuurmogelijkheden
